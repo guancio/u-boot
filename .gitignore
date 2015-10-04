@@ -20,6 +20,7 @@
 *.bin
 *.patch
 *.cfgtmp
+*.pyc
 
 # host programs on Cygwin
 *.exe
@@ -84,3 +85,6 @@ GTAGS
 *.orig
 *~
 \#*#
+
+# Test-related files
+/test/pyautomation/var
